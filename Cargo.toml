@@ -37,6 +37,7 @@ optional = true
 [dependencies.mio-serial]
 version = "5.0.3"
 default-features = false
+git = "https://github.com/Matt-Allen-Bose/mio-serial"
 
 [dependencies.bytes]
 version = "1"
